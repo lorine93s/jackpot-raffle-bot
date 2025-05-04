@@ -1,0 +1,11 @@
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+XRP_ADDRESS = "YOUR_RECEIVING_XRP_WALLET"
+XRP_SECRET = "YOUR_SECRET"  # For sending payouts
+
+CREATOR_WALLET = "rCREATOR_WALLET_ADDRESS"
+PROJECT_WALLET = "rPROJECT_WALLET_ADDRESS"  # Can be updated via admin command
+
+ADMIN_IDS = [123456789]  # Telegram user IDs
+XRP_NODE = "https://s.altnet.rippletest.net:51234"  # Use mainnet for real XRP
+DEFAULT_TICKET_PRICE = 5
+DEFAULT_ROUND_DURATION = 15 * 60  # seconds
