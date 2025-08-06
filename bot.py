@@ -90,4 +90,5 @@ def round_loop():
 threading.Thread(target=round_loop, daemon=True).start()
 
 if __name__ == "__main__":
+    print("🤖 Bot is running on http://localhost:5000")
     app.run(port=5000)
