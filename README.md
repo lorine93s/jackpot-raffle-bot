@@ -30,7 +30,3 @@ Set your webhook like this:
 ```
 https://api.telegram.org/bot<YOUR_TOKEN>/setWebhook?url=https://yourdomain.com/<YOUR_TOKEN>
 ```
-
-## License
-
-MIT
