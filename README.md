@@ -1,6 +1,6 @@
-# XRP Jackpot Telegram Bot
+# Jackpot Telegram Bot
 
-A Telegram bot that runs a simple XRP jackpot game.
+A Telegram bot that runs a simple Solana & XRP jackpot game.
 
 ## Features
 
